@@ -1,0 +1,87 @@
+body {
+    background: #c7b39b url(1517572511_bg-svg-gradient-min.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000; 
+}
+
+.container {
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 10px;
+    max-width: 1140px;
+    height: auto;
+    background: #fff;
+    border-radius: 2%;
+    margin: 95px auto 15px;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+h2 {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-radius: 2%;
+}
+
+
+
+.center-img {
+    display: block;
+    margin: 0 auto;
+    }
+
+.text-center {
+    font-family: 'Kaushan Script', cursive;
+    max-width: auto;
+    font-size: 21px;
+    text-align: center;
+    
+}
+
+.link {
+    font-family: 'Kaushan Script', cursive;
+    text-decoration: none;
+    color: #0000FF;
+    display: block;  
+    text-align:center;
+}
+a {
+text-decoration: none;
+}
+
+.avtor {
+    text-align: left;
+    margin-left: 50px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 21px;
+    color: #000;
+    font-weight: bold;
+}
+
+
+
+
+
+@media (max-width: 1200px) {
+    .container { 
+        padding: calc();
+
+    }
+}
